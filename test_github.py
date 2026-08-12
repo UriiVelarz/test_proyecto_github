@@ -1,1 +1,1 @@
-
+print("Uri dame plata")
